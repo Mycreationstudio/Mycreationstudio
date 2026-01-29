@@ -20,5 +20,5 @@ Looking to Collaborate On
 * Java and backend projects
 * Learning from experienced developers and mentors
 * Real-world problem-solving applications
-
-If you want, I can further refine this for **Java backend internships**, **freelance client credibility**, or make it **one-paragraph minimal**.
+* Turning ideas into real world problems
+* AI 
