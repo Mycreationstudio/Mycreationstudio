@@ -1,6 +1,6 @@
 Hi, I’m Kalidass P
 
-I am a Java developer and aspiring software engineer with a strong interest in backend development and problem solving. Alongside pursuing my college degree, I work as a freelancer, gaining practical experience by building solutions and handling real-world technical challenges.
+I am a Java developer and aspiring software engineer with a strong interest in backend development and problem solving. I work as a freelancer, gaining practical experience by building solutions and handling real-world technical challenges.
 
  Interests
 
